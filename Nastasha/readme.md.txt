@@ -1,0 +1,1 @@
+Here's a quick bio about me! My name is Nastasha, I've worked in the publishing industry for 3 years. 
