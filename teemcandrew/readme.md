@@ -3,7 +3,7 @@ Intro-to-Web-Summer-2014
 
 Hey fellow coders!
 
-Tess here, aka Tee.  
+Tess here, aka Tee&copy;.  
 
 <table>
     <tr>
