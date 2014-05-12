@@ -11,7 +11,7 @@ Tess here, aka Tee&copy;.
     </tr>
 </table>
 
-Day job: Product Manager - Wellness, Sun Life (starting May 20th)
-Actress to play my life: Julia Roberts (great laugh) 
+Day job: Product Manager - Wellness, Sun Life (starting May 20th)</br>
+Actress to play my life: Julia Roberts (great laugh) </br>
 Soundtrack to my life: Hans Zimmer - Inception 
 
