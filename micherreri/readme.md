@@ -6,5 +6,5 @@ I'm a Sales Ops Analyst at a predictive analytics software company. I support th
 "Everything in moderation" is how I live. With that being said, although you'd find me at the gym after work, it is also very likely I had an intense poutine for lunch. 
 
 I would get Alison Brie to play me on the big screen. Arcade Fire as the soundtrack.
----------------------------------------------------------------------
+
 
