@@ -1,0 +1,50 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	color: black;
+	background: url('pentagon.png');
+	background-repeat: repeat;
+	background-size: 100%;
+}
+
+div {
+	background-color: rgba(255,255,255,0.4);
+	border: 1px solid #000;
+	width: 50%;
+	margin: auto auto;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.avatar {
+	float: left;
+	height: 120px;
+	width: 120px;
+	border-radius: 100px;
+	margin-top: -20px;
+	margin-left: 40px;
+}
+
+header {
+	line-height: 100px;
+	text-shadow: 1px 1px #fff;
+}
+
+h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 16px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: white;
+	background-color: black;
+}
