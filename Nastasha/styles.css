@@ -46,3 +46,11 @@ header h1 {
 article {
     padding: 20px;
 }
+
+.places {
+    float: right;
+}
+
+.people {
+    float: left;
+}
