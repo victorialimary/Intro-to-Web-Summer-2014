@@ -1,0 +1,26 @@
+body {
+	background-color: #EEE;
+	font-family: helvetica, sans-serif;
+	font-size: 18px;
+	margin: 20px auto;
+}
+
+.back {
+	font-size: 12px;
+	font-family: helvetica;
+	font-weight: bold;
+}
+
+img {
+	max-width: 200px;
+	float: left;
+	margin: 10px;
+	border: 1px solid gray;
+	padding: 5px;
+	display: inline-block;
+	background: #AAA;
+}
+
+p {
+	line-height: 1.5em;
+}

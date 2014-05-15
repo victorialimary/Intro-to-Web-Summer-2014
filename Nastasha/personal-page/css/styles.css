@@ -70,3 +70,10 @@ footer {
     font-family: Arial;
     font-weight: 5px;
 }
+.places {
+    float: right;
+}
+
+.people {
+    float: left;
+}
