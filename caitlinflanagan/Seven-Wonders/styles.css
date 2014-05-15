@@ -1,0 +1,36 @@
+body {
+	background-color: #FCFCFC;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+img {
+	background: #FFF;
+	border: 2px solid black;
+	display: block;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 5px;
+	border-radius: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+ul {
+	margin: 0 auto;
+	text-align: center;
+	list-style-type: none;
+}
