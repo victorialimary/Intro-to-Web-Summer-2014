@@ -1,0 +1,40 @@
+body {
+	background-color: #EEE;
+	font-family: sans-serif;
+}
+ 
+/*All images - "Command + ?"*/
+
+img {
+	background: CCC;
+	border: 1px solid gray;
+	display: inline-block;
+	float: left;
+	margin: 10px;
+	max-width: 200px;
+	padding: 5px;
+
+}
+
+
+.image {
+	
+	border-radius: 100%
+}
+
+.zeus-pic{
+	opacity: 0.4;
+	filter:alpha (opacity=40);
+}
+
+.zeus-pic:hover{
+	opacity: 1.0;
+	filter:alpha (opacity=100);
+}
+
+#triangle-topleft {
+	width: 0;
+	height: 0;
+	border-top: 100px solid blue;
+	border-right: 100px solid transparent;
+}
