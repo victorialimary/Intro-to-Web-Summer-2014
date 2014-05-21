@@ -1,5 +1,29 @@
+ul
+{
+	list-style-type: non;
+	margin:0;
+	padding:0;
+}
+
+li {
+	display: inline;
+}
+
+a:link{
+     color: #000000;
+     text-align: center; 
+}
+
+a:visited{
+    background-color: #B4CDCD;
+   
+    padding: 6px;
+    text-decoration:none;
+}
+
+
 body {
-	background-color: #EEE;
+	background-color: #FFFFFF;
 	font-family: sans-serif;
 }
  
@@ -37,4 +61,12 @@ img {
 	height: 0;
 	border-top: 100px solid blue;
 	border-right: 100px solid transparent;
+}
+
+div.ex
+{
+width:500px;
+padding:100px;
+border:15px #000000;
+margin:10px;
 }
