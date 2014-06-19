@@ -1,0 +1,50 @@
+
+html {
+	font-family: "calibri";
+	font-style: sans-serif;
+}
+
+
+.header{ 
+	top: 10px;
+	background: #DBB8FF;
+	width: 100%;
+	text-align:center;
+
+}
+
+.ancestor {
+	background: url(http://ottingerlaw.com/wp-content/uploads/2013/04/new-york-city-wallpaper.jpg);
+	background-size: cover;
+	height: 300px;
+	
+}
+
+.nav a {
+	line-height: 25px;
+	display: inline-block;
+	position: relative;
+	top: 10px;
+	margin: 20px;
+
+}
+
+.center {
+	width: 700px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+img
+{
+opacity:0.4;
+filter:alpha(opacity=40); 
+}
+img:hover
+{
+opacity:1.0;
+filter:alpha(opacity=100); 
+}
+
+img {max-width:340px;
+max-height: 250px}

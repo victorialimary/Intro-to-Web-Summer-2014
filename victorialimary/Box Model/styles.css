@@ -1,0 +1,51 @@
+.box {
+	background-color: white;
+	height: 50px;
+	width: 150px;	
+	border: 10px dotted;
+	padding: 20px;
+	margin: 50px;
+	top: 5px;
+	width: 150px;
+	position: absolute;
+	border-radius: 150px;
+}
+
+.header{ 
+	position: fixed;
+	top: 10px;
+	background: gray;
+	width: 100%;
+
+}
+
+.ancestor {
+	height: 100px;
+	background: url(http://ottingerlaw.com/wp-content/uploads/2013/04/new-york-city-wallpaper.jpg);
+	background-size:cover;
+	height: 300px;
+	position: relative;
+}
+
+span {
+	background: red;
+}
+
+.nav a,
+.button {
+	background: green;
+	line-height: 50px;
+	display: inline-block;
+	top: 300px;
+	position: relative;
+}
+
+.blue.button {
+	background:blue;
+}
+
+.container {
+	width: 700px;
+	margin-left:auto;
+	margin-right:auto;
+}
