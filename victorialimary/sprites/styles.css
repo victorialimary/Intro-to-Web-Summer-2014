@@ -1,0 +1,28 @@
+body{
+	background: #fff;
+}
+
+.sprite-container {
+	background-image: url(http://i.imgur.com/kKnfUyt.png);
+	height: 65px;
+	width: 75px;
+	display: inline-block;
+	margin: 10px;
+	margin: 0 auto;
+}
+
+.sprite-container.facebook{
+	background-position: -75px 2px;
+}
+
+.sprite-container.twitter{
+	background-position: -150px 0px;
+}
+
+.sprite-container.youtube{
+	background-position: -0px 0px;
+}
+
+.sprite-container.facebook:hover{
+	background-position: -75px -60px;
+}

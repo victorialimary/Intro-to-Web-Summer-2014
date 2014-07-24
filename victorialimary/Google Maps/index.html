@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<title>Google Maps Intro! Wahoo!</title>
+	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA5eXw2303rbxfLHR_Wh_96_8zKGonFeYI"></script>
+	<script src="script.js"></script>
+
+</head>
+<body>
+
+
+	<div class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<form class="form-inline navbar-form">
+				<input class="form-control" placeholder="Latitude" type="text" name="latitude">
+					<input class="form-control" placeholder="Longitude" type="text" name="longitude">
+					<input class="btn btn-primary" type="submit" name="submit" value="Take me there!">
+			</form>
+		</div>
+	</div>
+
+	<div id="map-canvas"></div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+.photo {
+	display: block;
+}
+
+.photo img {
+	max-width: 100%;
+}

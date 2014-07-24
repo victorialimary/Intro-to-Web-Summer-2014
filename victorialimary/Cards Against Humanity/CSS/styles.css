@@ -1,25 +1,64 @@
-body {
-	background-color: ##232323;
-
-}
-
 .landing-hero{
-	
-
+	background-color: #232323;
+	color: #FFFFFF;
 }
 
-.h2{
-	font-size:;
-	background-color: ##232323;
+
+h2{
+	font-size: 75px;
 }
 
 .tag-line{
-font-size: 20px;	
+	font-size: 20px;
+	
 }
 
+h3{
+	font-size: 40px;
 
-.what{
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #232323;
+}
+
+.description{
 	font-size: 16px;
+}
+
+.download{
+	background-color: #232323;
+	color: #FFFFFF;
+}
+
+.main-picture{
+	width: 100%;
+    padding-top: 76px;
+
+}
+
+.box{
+	width: 400px;
+}
+
+.what {
+	padding: 50px;
+}
+
+.mailing-list{
+	background-color: #232323;
+	color: #FFFFFF;
+	padding-top: 25px;
+	padding-bottom: 30px;
+}
+
+h4{
+	text-align: center;
+	font-size: 40px;
+}
+
+h5{
+	text-align: center;
+	font-size: 15px;
+}
+
+.news{
+	background-color: gray;
+	padding-top: 30px;
 }

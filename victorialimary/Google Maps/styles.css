@@ -1,0 +1,14 @@
+html, 
+body, 
+#map-canvas{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#map-canvas{
+	box-sixing: border-box;
+	background: black url(ajax-loader.gif) center center no-repeat;
+	margin-top: 50px;
+	padding-bottom: 50px;
+	}
